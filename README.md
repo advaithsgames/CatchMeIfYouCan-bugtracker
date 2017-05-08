@@ -1,4 +1,4 @@
-# CatchMeIfYouCan-bugtracker
+# Advaith's Games Bug Tracker
 
 To check bugs, click [here](https://github.com/advaithsgames/CatchMeIfYouCan-bugtracker/projects/1).
 
